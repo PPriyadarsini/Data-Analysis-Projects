@@ -1,4 +1,4 @@
-## Sales Report :
+## Sales Report:
 
 
 - **Project objective:** 
@@ -14,7 +14,7 @@
 - **Role of reports:** Identify potential business expansion opportunities in promising countries, facilitate consumer negotiations, and determine effective customer discounts.
 
 
-## Finance Report :
+## Finance Report:
 
 - **Project objective:** 
 
