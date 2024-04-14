@@ -4,4 +4,4 @@ This README provides a summary of my data analysis projects, which use a variety
 
 ## Projects
 - ### Excel Projects
-  1. Sales & Finance Analytics: 
+  **1. Sales & Finance Analytics:**  
