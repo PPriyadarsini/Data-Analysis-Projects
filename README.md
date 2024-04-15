@@ -9,6 +9,4 @@ This README provides a summary of my data analysis projects, which use a variety
   **2. Coffee Shop Sales:** Analyzed the data from H1 2023 with Pivot Tables to visualize patterns and trends, and provided the business with insights and recommendations.
 
 - ### SQL Projects:
-  **1. Steve's Car Showroom:** Analyzed the data to provide Steve important insights about his car showroom. Leveraged concepts like Joins, Group By, Top, Aggregate functions to provide him with answers.
-
-  **2. Esports Tournament Analysis:** Analyzed the data using Joins, Group By, Having Clause, etc. to identify trends and generate reports on players, team names, and team win rates.
+  **1. Esports Tournament Analysis:** Analyzed the data using Joins, Group By, Having Clause, etc. to identify trends and generate reports on players, team names, and team win rates.
